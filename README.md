@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/USyYfpYeFlwnwgGfaB/giphy.gif" width="50" align="left"> Hi, I'm Angel ☁️🩵
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Sniglet&weight=500&color=89CFF0&size=22&lines=Automating+systems,+patching+fixtures...;Incoming+Cyber+Security+Student;Theatrical+Technical+Director;Hardware+%26+AV+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Sniglet&weight=500&color=89CFF0&size=22&lines=Automating+systems,+patching+fixtures...;Incoming+IT+Cyber+Security+Student;Theatrical+Technical+Director;Hardware+%26+AV+Enthusiast" alt="Typing SVG" />
 
 Welcome to my digital workspace! I specialize in bridging the gap between physical hardware and digital infrastructure.
 
