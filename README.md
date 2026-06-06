@@ -15,10 +15,10 @@ Welcome to my digital workspace! I specialize in bridging the gap between physic
     </td>
     <td width="50%">
       <b>📍 Location:</b> San Diego, CA ☀️ <br>
-      <b>🎓 Education:</b> CSUSB (B.S. Cyber Security '30) <br>
-      <b>🏆 Awards:</b> Principal's Honor Roll, Golden State Seal Merit, Seal of Biliteracy <br>
-      <b>☁️ Vibe:</b> Minimal, Pastel, Cinnamoroll, Techwear <br>
-      <b>📬 Connect:</b> <br>
+      <b>🎓 Education:</b> CSUSB B.S. Information Systems & Tech conc. Cyber Security '30 <br>
+      <b>🏆 Awards:</b> (highschool) Principal's Honor Roll, Golden State Seal Merit, Seal of Biliteracy <br>
+      <b>☁️ Vibe:</b> love tech, lights/sound, games, oh and tech again <br>
+      <b>🩵 Be my friend! (⁀ᗢ⁀):</b> <br>
       <a href="https://instagram.com/YOUR_HANDLE_HERE"><img src="https://img.shields.io/badge/-Instagram-ffb6c1?style=flat-square&logo=instagram&logoColor=white" alt="Insta"></a>
       <a href="https://app.joinhandshake.com/stu/users/YOUR_ID_HERE"><img src="https://img.shields.io/badge/-Handshake-aec6cf?style=flat-square&logo=handshake&logoColor=white" alt="Handshake"></a>
     </td>
@@ -47,20 +47,16 @@ Welcome to my digital workspace! I specialize in bridging the gap between physic
 **Co-President** | *Computer Science Honor Society (CSHS)*
 > Managed the school chapter, organizing initiatives and facilitating peer education in technical concepts and hardware troubleshooting.
 
-### 🎮 Currently Rotating
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co20u8.png" width="130" style="border-radius: 10px;"><br><b>Clone Hero</b>
-    </td>
-    <td align="center">
-      <img src="https://steamcdn-a.akamaihd.net/steam/apps/1222670/library_600x900.jpg" width="130" style="border-radius: 10px;"><br><b>The Sims 4</b>
-    </td>
-    <td align="center">
-      <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2k0r.jpg" width="130" style="border-radius: 10px;"><br><b>Roblox</b>
-    </td>
-  </tr>
-</table>
+### 🏆 Academic Awards & Certifications (cont.)🏆
+* 🎓 **CSUSB Incoming Class of 2030** - B.S. Information Systems & Technology (Cyber Security)
+* 🌟 **Principal's Honor Roll** 
+* 📜 **California Golden State Seal Merit Diploma**
+* 🌎 **State Seal of Biliteracy**
+* 🌱 **Familiar with Google Workspace & MS365 tools**
+
+### 🎮 Currently Rotating 🎮
+| <img src="https://img.shields.io/badge/Clone_Hero-000000?style=flat-square&logo=youtubegaming&logoColor=white"> | <img src="https://img.shields.io/badge/The_Sims_4-00A9E0?style=flat-square&logo=ea&logoColor=white"> | <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white"> |
+| :---: | :---: | :---: |
 
 <!-- Replace YOUR_AVATAR_LINK with a link to your floating avatar image! -->
 <div align="right">
