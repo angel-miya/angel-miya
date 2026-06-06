@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/USyYfpYeFlwnwgGfaB/giphy.gif" width="50" align="left"> Hi, I'm Angel ☁️🩵
+# <img src="https://media.giphy.com/media/USyYfpYeFlwnwgGfaB/giphy.gif" width="50" align="left"> 🩵☁️ Hii, I'm Angel! ☁️🩵
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Sniglet&weight=500&color=89CFF0&size=22&lines=Automating+systems,+patching+fixtures...;Incoming+IT+Cyber+Security+Student;Theatrical+Technical+Director;Hardware+%26+AV+Enthusiast" alt="Typing SVG" />
 
@@ -11,9 +11,9 @@ Welcome to my digital workspace! I specialize in bridging the gap between physic
   <tr>
     <td width="50%">
       <!-- NOTE: Replace YOUR_GITHUB_USERNAME below to activate your cute stats card! -->
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=buefy&hide_border=true&bg_color=FDF6E3&title_color=89CFF0&text_color=777777" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=angel-miya&theme=buefy&hide_border=true&bg_color=FDF6E3&title_color=89CFF0&text_color=777777" alt="GitHub Stats">
     </td>
-    <td width="50%">
+    <td width="80%">
       <b>📍 Location:</b> San Diego, CA ☀️ <br>
       <b>🎓 Education:</b> CSUSB B.S. Information Systems & Tech conc. Cyber Security '30 <br>
       <b>🏆 Awards:</b> (highschool) Principal's Honor Roll, Golden State Seal Merit, Seal of Biliteracy <br>
